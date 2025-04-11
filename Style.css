@@ -1,0 +1,61 @@
+.body {
+    color: purple;
+}
+.custom-container {
+    background-color: purple;
+}
+.imagesNamin {
+    height: 143px;
+    width: 143px;
+    object-fit: cover;
+    border-radius: 14%;
+}
+.label {
+    color: white;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black;
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+.italised {
+    color: yellow;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+.listDiv {
+    margin: auto;
+}
+.bucketList {
+    font-weight: bolder;
+    color: yellow;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+}
+.paragraph {
+    color: yellow;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black;
+}
+.likes {
+    font-weight: bolder;
+    color: yellow;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 0 !important;
+}
+.paragraphLikes {
+    color: yellow;
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 0 !important;
+}
+.spotify {
+    margin: 20px 0 0 0;
+}
+.spotifyLabel {
+    font-weight: bolder;
+    color: yellow;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 40px  0 20px 0 !important;
+}
